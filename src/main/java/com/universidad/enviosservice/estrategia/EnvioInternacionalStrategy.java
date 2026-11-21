@@ -1,4 +1,4 @@
-﻿package com.universidad.enviosservice.estrategia;
+package com.universidad.enviosservice.estrategia;
 
 public class EnvioInternacionalStrategy implements EstrategiaEnvio {
     @Override
