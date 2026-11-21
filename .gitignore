@@ -1,0 +1,6 @@
+﻿target/
+.idea/
+*.iml
+.vscode/
+.scannerwork/
+.DS_Store
